@@ -1,0 +1,24 @@
+## Interface: 50400
+## Version: v0.4.5
+## Author: Kibs
+## SavedVariables: KibsItemLevelConfig
+## X-Curse-Packaged-Version: v0.4.5
+## X-Curse-Project-Name: Kibs Item Level
+## X-Curse-Project-ID: kibs-item-level
+## X-Curse-Repository-ID: wow/kibs-item-level/mainline
+
+Localization\enUS.lua
+Localization\esES.lua
+Localization\esMX.lua
+Localization\deDE.lua
+Localization\ruRU.lua
+Localization\frFR.lua
+Localization\zhCN.lua
+Localization\zhTW.lua
+Localization\koKR.lua
+Localization\ptBR.lua
+Localization\itIT.lua
+
+libs\LibItemUpgradeInfo-1.0\LibItemUpgradeInfo-1.0.xml
+KibsItemLevel.lua
+KibsItemLevel.xml

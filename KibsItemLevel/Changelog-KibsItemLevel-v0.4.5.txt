@@ -1,0 +1,11 @@
+tag v0.4.5
+ebfe90db3441dcd1f63bdb64a0853424504576ef
+kibsgaard <kibsgaard@curseforge.com>
+2014-08-21 22:45:05 +0200
+
+Tagging as v0.4.5
+
+
+--------------------
+
+No changelog
